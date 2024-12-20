@@ -1,18 +1,18 @@
 :root {
-  /* Color */
+
   --color-black: #263238;
   --color-neutral: #f5f7fa;
   --color-grey: #717171;
   --color-d-grey: #4d4d4d;
   --color-primary: #4caf4f;
-  /* font */
+
   --font-family: "inter", sans-serif;
-  /* fontwidth */
+  
   --font-weight-400: 400;
   --font-weight-500: 500;
   --font-weight-600: 600;
   --font-weight-700: 700;
-  /* fontsize */
+
   --font-size-14px: 0.875rem;
   --font-size-16px: 1rem;
   --font-size-28px: 1.75rem;
